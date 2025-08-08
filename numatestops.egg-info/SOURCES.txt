@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-numatestops.egg-info/PKG-INFO
-numatestops.egg-info/SOURCES.txt
-numatestops.egg-info/dependency_links.txt
-numatestops.egg-info/requires.txt
-numatestops.egg-info/top_level.txt

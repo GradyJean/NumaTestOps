@@ -1,7 +1,0 @@
-dashscope>=1.24.1
-fastapi>=0.116.1
-langchain>=0.3.27
-langchain-community>=0.3.27
-langgraph>=0.6.3
-playwright>=1.54.0
-pydantic>=2.11.7
